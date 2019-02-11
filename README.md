@@ -4,5 +4,5 @@ This will be the all of the work within and out of the class.
 
 Understanding my code 
 * basics through Feb 4
-* Start of Reacts Feb 6
+* Start of React Feb 6
 * JSX Feb 11
